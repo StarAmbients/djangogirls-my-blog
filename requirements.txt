@@ -11,4 +11,4 @@ platformdirs==2.4.0
 pycodestyle==2.9.0
 pyflakes==2.5.0
 sqlparse==0.4.3
-tomli==2.0.1
+tomli==1.2.3
