@@ -1,0 +1,1 @@
+MYSITE_SECRET_KEY = 'django-insecure-54za6uec1wmt%cl+%*_0$7sfjx!13*ep4gf-1cr-4$gku!gkou'
